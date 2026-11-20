@@ -1,0 +1,35 @@
+[
+  {
+    "nombre": "Estación Rosedal Norte",
+    "latitud": -34.57115,
+    "longitud": -58.41734,
+    "servicio": "inflado",
+    "horario": "07:00 a 21:00",
+    "referencia_puesto": "Acceso Av. Infanta Isabel, junto al bicicletero norte",
+    "id": "cc848b09-c27e-45f4-8af8-0de17ce366fa",
+    "created_at": "2026-11-20T17:10:15.555Z",
+    "updated_at": "2026-11-20T17:10:15.555Z"
+  },
+  {
+    "nombre": "Punto Costanera Sur",
+    "latitud": -34.61432,
+    "longitud": -58.35689,
+    "servicio": "herramientas",
+    "horario": "08:00 a 20:00",
+    "referencia_puesto": "Entrada Fuente de las Nereidas, poste amarillo",
+    "id": "5641568b-5323-42d5-8dab-fae5b179607c",
+    "created_at": "2026-11-20T17:10:15.555Z",
+    "updated_at": "2026-11-20T17:10:15.555Z"
+  },
+  {
+    "nombre": "Taller Parque Centenario",
+    "latitud": -34.60648,
+    "longitud": -58.43572,
+    "servicio": "ambos",
+    "horario": "24 hs (autoservicio)",
+    "referencia_puesto": "Esquina Av. Díaz Vélez y Leopoldo Marechal, tótem verde",
+    "id": "5116b0e9-5a3b-47bd-b3f3-84635aab26c8",
+    "created_at": "2026-11-20T17:10:15.555Z",
+    "updated_at": "2026-11-20T17:10:15.555Z"
+  }
+]
