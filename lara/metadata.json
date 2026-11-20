@@ -1,0 +1,6 @@
+{
+  "name": "PuntoBici — Red de Inflado y Herramientas",
+  "description": "Servicio web con gestión CRUD de puntos de inflado y herramientas para ciclistas, filtrado por servicio y visualización interactiva en Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
